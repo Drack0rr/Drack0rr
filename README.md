@@ -5,7 +5,7 @@
   <a href="https://rotthier.fr"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=A+passionate+IT+engineer+!"></a>
 </p>
 
-<a href="https://github.com/Drack0rr" target="blank">
+<p align="center"> <a href="https://github.com/Drack0rr" target="blank">
 <img src="https://img.shields.io/github/stars/Drack0rr?label=%E2%AD%90%20Github&style=for-the-badge" alt="drack0rr__" /></a>
 
  </br> </br>
